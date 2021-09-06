@@ -11,8 +11,11 @@ Open the notebook using the Google Colaboratory link provided, copy it on your d
 Install Python and it's libraries.
 
 Link to the datasets: 
-  Countries-data. ([https://www.kaggle.com/rohan0301/unsupervised-learning-on-country-data?select=Country-data.csv])
-  Data-dictionary. ([https://www.kaggle.com/rohan0301/unsupervised-learning-on-country-data?select=data-dictionary.csv])
+
+  Countries-data. [https://www.kaggle.com/rohan0301/unsupervised-learning-on-country-data?select=Country-data.csv]
+ 
+ 
+  Data-dictionary. [https://www.kaggle.com/rohan0301/unsupervised-learning-on-country-data?select=data-dictionary.csv]
   
   
 ## Contributing
